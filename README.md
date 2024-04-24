@@ -1,6 +1,6 @@
 # LINUX-ACADEMIC-PWs
 
-Ce dépôt contient les travaux pratiques réalisés sous Linux pendant le 1er semestre de 3ème année en Génie Logiciel à l'INSAT. Les travaux pratiques sont organisés en sessions, avec chaque session étant placée dans un dossier séparé (séance x - titre).
+Ce dépôt contient les travaux pratiques réalisés sous LINUX pendant le 1er semestre de 3ème année en Génie Logiciel à l'INSAT. Les travaux pratiques sont organisés en sessions, avec chaque session étant placée dans un dossier séparé (séance x - titre).
 
 ## Structure du dépôt
 
